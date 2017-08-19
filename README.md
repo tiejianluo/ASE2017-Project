@@ -1,7 +1,7 @@
 # ASE2017-Project
 This is the course project codebase and the required tasks.
 
-# Task 1 Local test
+# Task 1: Local test
 Run the following 4 project locally:
 
 ## 1. install [git](https://git-scm.com/downloads)
@@ -53,8 +53,8 @@ git clone https://github.com/tiejianluo/ASE2017-Project.git
   ```
   bee run blocklyGame
   ```
-# Task 2 Online demo
-## 1. Setup your own github account
+# Task 2: Online demo
+## 1. Setup your own [github](https://github.com) account
 ## 2. Create a repository in your github (e.g [your-username]/ASE2017-Project)
 ## 3. Add your source code to the repository
 ## 4. Hosted directly from your GitHub repository on a [GitHub Pages](https://pages.github.com/) for final assessment
