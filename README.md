@@ -30,7 +30,7 @@ You can do this by adding this line to your /etc/profile (for a system-wide inst
 export PATH=/usr/local/go/bin:$PATH
 ```
 ### 2. install [Beego](https://beego.me/quickstart)
-Setup $GOPATH enviroment, it <span style="color: #FFFF00">MUST BE</span> under your workspace directory. 
+Setup $GOPATH enviroment, it **MUST BE** under your workspace directory. 
 You can do this by adding this line to your /etc/profile (for a system-wide installation) or $HOME/.profile, for example:
 ```
 export GOPATH=/home/[your-username]/ASE2017-Project/go/workspace
