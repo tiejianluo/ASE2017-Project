@@ -4,15 +4,13 @@ This is the course project codebase and the required tasks.
 # Task 1 Local test
 Run the following 4 project locally:
 
-Firstly, install [git](https://git-scm.com/downloads)
+## 1. install [git](https://git-scm.com/downloads)
 
-Then download or git clone the whole project into your local machine and run it locally.
+## 2. download or git clone the whole project into your local machine.
 ```
 git clone https://github.com/tiejianluo/ASE2017-Project.git
 ```
-
-# Task 2 Online demo
-Setup your own github account and open a [GitHub Pages](https://pages.github.com/) for final assessment.
+## 3. Run it locally 
 
 ## Project 1 HTML + CSS + Javascript + jQuery
 This is a self-exercise task.
@@ -55,3 +53,7 @@ Start your first beego project!
 ```
 bee run blocklyGame
 ```
+# Task 2 Online demo
+## 1. Setup your own github account
+## 2. Create a repositary in your github (e.g [your-username]/ASE2017-Project)
+## 3. Add your source code to a [GitHub Pages](https://pages.github.com/) for final assessment
