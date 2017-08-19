@@ -29,30 +29,22 @@ You can do this by adding this line to your /etc/profile (for a system-wide inst
 ```
 export PATH=/usr/local/go/bin:$PATH
 ```
-### 2. install [Beego](https://beego.me/quickstart)
-Setup $GOPATH enviroment, it **MUST BE** under your workspace directory. 
+### 2. setup [Beego](https://beego.me/quickstart) for blockly-games
+Setup $GOPATH enviroment, it **MUST BE** under [your-download-path]/ASE2017-Project/go/workspace directory. 
 You can do this by adding this line to your /etc/profile (for a system-wide installation) or $HOME/.profile, for example:
 ```
 export GOPATH=/home/[your-username]/ASE2017-Project/go/workspace
-```
-Enter your $GOPATH directory:
-```
-cd $GOPATH
-```
-using go to get beego
-```
-go get -u github.com/astaxie/beego
-```
-using go to get bee
-```
-go get -u github.com/beego/bee
 ```
 Add $GOPATH/bin to your PATH environment variable. 
 You can do this by adding this line to your /etc/profile (for a system-wide installation) or $HOME/.profile:
 ```
 export PATH=/usr/local/go/bin:$GOPATH/bin:$PATH
 ```
-Enter $GOPATH/src and start your first beego project!
+Enter $GOPATH/src 
 ```
-bee run
+cd $GOPATH/src
+```
+Start your first beego project!
+```
+bee run blocklyGame
 ```
