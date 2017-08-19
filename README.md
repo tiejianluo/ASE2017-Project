@@ -27,7 +27,7 @@ tar -C /usr/local -xzf go$VERSION.$OS-$ARCH.tar.gz
 Add /usr/local/go/bin to the PATH environment variable. 
 You can do this by adding this line to your /etc/profile (for a system-wide installation) or $HOME/.profile:
 ```
-export PATH=$PATH:/usr/local/go/bin
+export PATH=/usr/local/go/bin:$PATH
 ```
 ### 2. install [Beego](https://beego.me/quickstart)
 Setup $GOPATH enviroment, it should be under your workspace directory. 
@@ -44,7 +44,7 @@ go get -u github.com/beego/bee
 Add $GOPATH/bin to your PATH environment variable. 
 You can do this by adding this line to your /etc/profile (for a system-wide installation) or $HOME/.profile:
 ```
-export PATH=$PATH:/usr/local/go/bin:$GOPATH/bin
+export PATH=/usr/local/go/bin:$GOPATH/bin:$PATH
 ```
 Enter $GOPATH/src and start your first beego project!
 ```
