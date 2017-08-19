@@ -55,5 +55,6 @@ bee run blocklyGame
 ```
 # Task 2 Online demo
 ## 1. Setup your own github account
-## 2. Create a repositary in your github (e.g [your-username]/ASE2017-Project)
-## 3. Add your source code to a [GitHub Pages](https://pages.github.com/) for final assessment
+## 2. Create a repository in your github (e.g [your-username]/ASE2017-Project)
+## 3. Add your source code to the repository
+## 4. Hosted directly from your GitHub repository on a [GitHub Pages](https://pages.github.com/) for final assessment
