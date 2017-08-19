@@ -38,7 +38,13 @@ export GOPATH=/home/[your-username]/workspace
 Enter your $GOPATH directory and get beego:
 ```
 cd $GOPATH
+```
+using go to get beego
+```
 go get -u github.com/astaxie/beego
+```
+using go to get bee
+```
 go get -u github.com/beego/bee
 ```
 Add $GOPATH/bin to your PATH environment variable. 
