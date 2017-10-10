@@ -19,12 +19,18 @@ git clone https://github.com/tiejianluo/ASE2017-Project.git
   * Editor: [vim](http://www.vim.org/download.php) / [sublime-text](http://www.sublimetext.com/3) / [atom](https://atom.io/) / [VS code](https://code.visualstudio.com)
   * Browser: [Chrome](http://www.google.cn/chrome/browser/desktop) / [Firefox](http://www.firefox.com.cn)
   * Debug within browser: developer tools (F12 / right click -> inspect element) 
+  
   ## Project 2: ninja-code for Javascript (for intermediate）
   This is a self-exercise task. Reference books:John Resig, Secrets fo the JavaScript Ninja.中文翻译版：JavaScript 忍者秘籍。
   ###
-  ## Project 3: blockly-games
+  
+  ## Project 3: Test-Driving JavaScript Applications
+  you should download the code from https://pragprog.com/titles/vsjavas/source_code.
+  ###
+  
+  ## Project 4: blockly-games
   This is a self-exercise task. You should do blockly-games programming drills and records your finish time.
-  ## Project 4: blockly-games on Beego Framework
+  ## Project 5: blockly-games on Beego Framework 
   ### 1. Install golang
   Download the [archive](https://golang.org/dl) and extract it into /usr/local, creating a Go tree in /usr/local/go. For example:
   ```
